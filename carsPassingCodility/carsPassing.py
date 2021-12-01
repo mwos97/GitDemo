@@ -29,3 +29,6 @@ print("test for develop branch4")
 def new_test():
     pass
 
+def new_test2():
+    pass
+
